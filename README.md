@@ -1,0 +1,1 @@
+# dblClickEdit.plugin.js
